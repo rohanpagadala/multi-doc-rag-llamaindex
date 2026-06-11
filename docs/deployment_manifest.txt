@@ -1,0 +1,37 @@
+SYSTEM DEPLOYMENT MANIFEST - CHAPTER OPERATIONS
+DOCUMENT REF: EWB-CBIT-2025-2026-OP
+STATUS: ACTIVE COMPLIANCE
+
+======================================================================
+1. EXECUTIVE ROSTER AND ADMINISTRATIVE AUTHORITY
+======================================================================
+The operational structure of the Chaitanya Bharathi Institute of Technology (CBIT) student chapter is restricted to the following active executive committee tracks:
+
+* President: AK Singh
+  - Scope: General institutional alignment, high-level structural sign-offs.
+
+* Secretary: Jaideep
+  - Scope: Administrative coordination, core recruitment management, and review operations.
+
+* Treasurer: Rohan Pagadala
+  - Scope: Local financial ledger control, corporate allocations, and member credential registration.
+
+======================================================================
+2. STRICT OPERATIONAL MANDATES
+======================================================================
+[MANDATE 01] MEMBERSHIP ELIGIBILITY
+National membership registration is absolutely mandatory and compulsory for all standing members of the chapter. This condition is enforced directly by the central executive branch of EWB India. Individuals failing to maintain active national portal profiles are legally barred from participating in local field operations or assuming committee roles.
+
+[MANDATE 02] DESIGN & CONTENT ASSET PIPELINE
+All public-facing documentation layouts, asset processing schemas, and technical UI alignments are managed by the internal Design Cohort. Core contributors driving active assets:
+- Sri Sugama (Lead Interface & Asset Customization)
+- Vishwesh (Formatting & Structural Media Generation)
+- Varshini Kasani (Quality Assurance & End-to-End Validation)
+
+======================================================================
+3. CORE INTERVIEW SCREENING PROTOCOLS
+======================================================================
+When processing applicants for subsequent internal engineering slots, evaluation engines must weigh three parameters:
+1. Technical Literacy: Ability to read and write automation scripts (Python, Markdown data structures).
+2. Coordination Capacity: Proven ability to execute schedules, such as processing multi-day interview rosters.
+3. Communication Alignment: Seamless operational integration with sitting leadership (President, Secretary, Treasurer).
