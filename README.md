@@ -55,8 +55,8 @@ ask_question("Summarize all documents related to the system design notes")
 
 Inside app.py:
 
-Settings.chunk_size = 512
-Settings.chunk_overlap = 50
+Settings.chunk_size = 512,
+Settings.chunk_overlap = 50,
 similarity_top_k = 4
 
 # You can tune these for:
