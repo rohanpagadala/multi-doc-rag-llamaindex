@@ -61,6 +61,6 @@ similarity_top_k = 4
 
 # You can tune these for:
 
-better context retention
-faster retrieval
-improved accuracy
+1)better context retention
+2)faster retrieval
+3)improved accuracy
